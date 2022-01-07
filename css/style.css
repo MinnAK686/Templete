@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vujahday+Script&display=swap');
+h1,h2,h3,h4,h5,p,a {
+    font-family: 'Luxurious Roman', cursive;
+}
+#brand {
+    font-family: 'Vujahday Script', cursive;
+}
+.no-list-style {
+    list-style-type: none;
+}
+.tdn {
+    text-decoration: none;
+}
+.card-r {
+    border-radius: 20px;
+}
+.ct {
+    background-color: rgb(49, 49, 49);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 20px;
+}
+.cb {
+    background-color: rgb(49, 49, 49);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 20px;
+}
+.heading {
+    background-image: url("../img/backgroungimg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 125px;
+    padding-bottom: 125px;
+}
+
+.card-dark {
+    background-color: rgb(49, 49, 49);
+}
+.bg-49 {
+    background-color: rgb(49, 49, 49);
+}
